@@ -3,17 +3,15 @@
 </div>
 
 <div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=ValeryBahmin&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=ValeryBahmin&style=flat-square&color=blue" alt=""/>
   <h2>
     Hi there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h2>
 </div>
 
-<!--
-**ValeryBahmin/ValeryBahmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### :man_technologist: About Me :
+I am a Data Analyst :ru: from Russia.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
