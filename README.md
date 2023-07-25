@@ -11,7 +11,7 @@
 </div>
 
 ### :man_technologist: About me :
-I’m a Full stack Python/Django web developer and Data Analyst/Scientist :ru: from Russia.
+I’m a Python Full-stack Web Developer and Data Analyst/Scientist :ru: from Russia.
 
 - 🔭 Understanding a business problem
 - 🔬 Extracting, cleansing and validation data with SQL, Python 
