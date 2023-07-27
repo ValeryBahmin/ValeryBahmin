@@ -1,12 +1,12 @@
 <div id="header" align="center">
-  <img src="https://habrastorage.org/r/w1560/getpro/habr/upload_files/c0f/e90/8fd/c0fe908fde36e755906d870b0056527b.jpg" width="250"/>
   <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="150"/>
 </div>
 
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=ValeryBahmin&style=flat-square&color=blue" alt=""/>
+  
   <h1>
-    Hi there, I'm <a>Valery</a> 
+    Hi there, I'm Valery
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
   </h1>
   <h3 align="center">Python Web Developer and Data Analyst/Scientist from Russia :ru: </h3>
@@ -45,3 +45,13 @@ I'm actively learning Python and implementing data analytics projects
   <img src="https://yandex.ru/images/search?pos=24&img_url=http%3A%2F%2Fmediasubs.ru%2Fgroup%2Fuploads%2Fos%2Fosnovyi-kompyutera-i-interneta%2Fimage%2F1560055345-343077-295164.jpg&text=excel%20%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF%20png&lr=213&rpt=simage&source=serp" title="Excel" alt="Excel" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Valb)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valb)](https://github.com/anuraghazra/github-readme-stats)
+
+
