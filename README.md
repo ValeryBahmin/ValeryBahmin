@@ -1,26 +1,29 @@
 <div id="header" align="center">
+  <img src="https://habrastorage.org/r/w1560/getpro/habr/upload_files/c0f/e90/8fd/c0fe908fde36e755906d870b0056527b.jpg" width="250"/>
   <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="150"/>
 </div>
 
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=ValeryBahmin&style=flat-square&color=blue" alt=""/>
-  <h2>
-    Hi there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h2>
+  <h1>
+    Hi there, I'm <a>Valery</a> 
+    <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+  </h1>
+  <h3 align="center">Python Web Developer and Data Analyst/Scientist from Russia :ru: </h3>
 </div>
 
 ### :man_technologist: About me :
-I’m a Python Full-stack Web Developer and Data Analyst/Scientist :ru: from Russia.
+
+I'm actively learning Python and implementing data analytics projects 
 
 - 🔭 Understanding a business problem
 - 🔬 Extracting, cleansing and validation data with SQL, Python 
 - 📊 Data analysis and visualization of results
 - 📋 Summary of complex results and development of recommendations
-- Database design and creation
-- Actively study and development of websites on Django & JS
+- 📈 Database design and creation
+- 🌱 Development of websites on Django & JS/jQuery
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Python+Full+Stack+Web+Developer;Always+learning+new+things!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Python+Web+Developer;Always+learning+new+things!)](https://git.io/typing-svg)
 
 ---
 
